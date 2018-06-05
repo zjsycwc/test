@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("hello world test sjds");
+	printf("why hello world test sjds");
 	return 0;
 }
